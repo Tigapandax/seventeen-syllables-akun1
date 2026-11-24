@@ -1,0 +1,3 @@
+Logs scroll past midnight
+cursor blinks where the bug hides
+one semicolon
